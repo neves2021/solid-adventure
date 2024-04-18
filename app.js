@@ -86,9 +86,9 @@ const noticiasLista = [
         link: "https://mag.sapo.pt/musica/artigos/napa-editam-segundo-album-com-uma-roupagem-mais-madura-mas-um-espirito-sempre-moco-ouca-aqui-logo-se-ve"
     },
     {
-        titulo: "Em Maio, disseram Logo Se Vê e agora dão-nos a ouvir Gigantes. São os Napa.",
+        titulo: "Em Maio, disseram Logo Se Vê[...]]",
         img: "noticia01.jpg",
-        resumo: "O primeiro álbum, Senso Comum, lançado em 2019, ainda o gravaram como Men On The Couch, mas o segundo, Logo Se Vê, publicado em Maio passado, já trouxe o nome que em definitivo decidiram dar à banda: Napa. Grupo nascido na Madeira, em 2013, os Napa são um quarteto formado por Francisco Sousa (guitarra), Guilherme Gomes (voz e guitarra), João Rodrigues (baixo) e Tiago Rodrigues (bateria).",
+        resumo: "O primeiro álbum, Senso Comum, lançado em 2019, ainda o gravaram como Men On The Couch, mas o segundo, Logo Se Vê, publicado em Maio passado, já trouxe o nome que em definitivo decidiram dar à banda: Napa.",
         data: "08/07/2023",
         link: "https://www.publico.pt/2023/07/08/culturaipsilon/video/maio-disseram-logo-ve-daonos-ouvir-gigantes-sao-napa-20230706-234540"
     },
