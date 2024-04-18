@@ -86,7 +86,7 @@ const noticiasLista = [
         link: "https://mag.sapo.pt/musica/artigos/napa-editam-segundo-album-com-uma-roupagem-mais-madura-mas-um-espirito-sempre-moco-ouca-aqui-logo-se-ve"
     },
     {
-        titulo: "Em Maio, disseram Logo Se Vê[...]]",
+        titulo: "Em Maio, disseram Logo Se Vê[...]",
         img: "noticia01.jpg",
         resumo: "O primeiro álbum, Senso Comum, lançado em 2019, ainda o gravaram como Men On The Couch, mas o segundo, Logo Se Vê, publicado em Maio passado, já trouxe o nome que em definitivo decidiram dar à banda: Napa.",
         data: "08/07/2023",
