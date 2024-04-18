@@ -80,14 +80,14 @@ const noticiasLista = [
     },
     {
         titulo: "NAPA editam segundo álbum[...]",
-        img: "noticia02.webp",
+        img: "noticia01.jpg",
         resumo: "Editado na passada sexta-feira, 26 de maio, o segundo álbum dos NAPA, 'Logo Se Vê', marca o início de uma nova fase da banda madeirense.",
         data: "28/05/2023",
         link: "https://mag.sapo.pt/musica/artigos/napa-editam-segundo-album-com-uma-roupagem-mais-madura-mas-um-espirito-sempre-moco-ouca-aqui-logo-se-ve"
     },
     {
         titulo: "Em Maio, disseram Logo Se Vê e agora dão-nos a ouvir Gigantes. São os Napa.",
-        img: "noticia03.jpg",
+        img: "noticia01.jpg",
         resumo: "O primeiro álbum, Senso Comum, lançado em 2019, ainda o gravaram como Men On The Couch, mas o segundo, Logo Se Vê, publicado em Maio passado, já trouxe o nome que em definitivo decidiram dar à banda: Napa. Grupo nascido na Madeira, em 2013, os Napa são um quarteto formado por Francisco Sousa (guitarra), Guilherme Gomes (voz e guitarra), João Rodrigues (baixo) e Tiago Rodrigues (bateria).",
         data: "08/07/2023",
         link: "https://www.publico.pt/2023/07/08/culturaipsilon/video/maio-disseram-logo-ve-daonos-ouvir-gigantes-sao-napa-20230706-234540"
