@@ -72,46 +72,25 @@ const videos = [
 
 const noticiasLista = [
     {
-        titulo: "Título da Notícia",
-        img: "foto01.jpg",
-        resumo: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio corporis debitis, ipsam quisquam a nesciunt veniam voluptatibus quia aliquid numquam!",
-        data: "15/02/2024",
-        link: "https://jn.pt/blablabla"
+        titulo: "Os Napa, banda da ilha da Madeira",
+        img: "noticia01.jpg",
+        resumo: "Da ilha da Madeira para o mundo. Os Napa já foram Men on the Couch, hoje apresentam-se como banda 100% em português. Ficámos a saber mais sobre a transição do nome da banda e o novo disco: Logo se vê.",
+        data: "25/05/2023",
+        link: "https://rdpinternacional.rtp.pt/cultura/os-napa-banda-da-ilha-da-madeira"
     },
     {
-        titulo: "Título da Notícia",
-        img: "foto01.jpg",
-        resumo: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio corporis debitis, ipsam quisquam a nesciunt veniam voluptatibus quia aliquid numquam!",
-        data: "15/02/2024",
-        link: "https://jn.pt/blablabla"
+        titulo: "NAPA editam segundo álbum[...]",
+        img: "noticia02.webp",
+        resumo: "Editado na passada sexta-feira, 26 de maio, o segundo álbum dos NAPA, 'Logo Se Vê', marca o início de uma nova fase da banda madeirense.",
+        data: "28/05/2023",
+        link: "https://mag.sapo.pt/musica/artigos/napa-editam-segundo-album-com-uma-roupagem-mais-madura-mas-um-espirito-sempre-moco-ouca-aqui-logo-se-ve"
     },
     {
-        titulo: "Título da Notícia",
-        img: "foto01.jpg",
-        resumo: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio corporis debitis, ipsam quisquam a nesciunt veniam voluptatibus quia aliquid numquam!",
-        data: "15/02/2024",
-        link: "https://jn.pt/blablabla"
-    },
-    {
-        titulo: "Título da Notícia",
-        img: "foto01.jpg",
-        resumo: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio corporis debitis, ipsam quisquam a nesciunt veniam voluptatibus quia aliquid numquam!",
-        data: "15/02/2024",
-        link: "https://jn.pt/blablabla"
-    },
-    {
-        titulo: "Título da Notícia",
-        img: "foto01.jpg",
-        resumo: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio corporis debitis, ipsam quisquam a nesciunt veniam voluptatibus quia aliquid numquam!",
-        data: "15/02/2024",
-        link: "https://jn.pt/blablabla"
-    },
-    {
-        titulo: "Título da Notícia",
-        img: "foto01.jpg",
-        resumo: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio corporis debitis, ipsam quisquam a nesciunt veniam voluptatibus quia aliquid numquam!",
-        data: "15/02/2024",
-        link: "https://jn.pt/blablabla"
+        titulo: "Em Maio, disseram Logo Se Vê e agora dão-nos a ouvir Gigantes. São os Napa.",
+        img: "noticia03.jpg",
+        resumo: "O primeiro álbum, Senso Comum, lançado em 2019, ainda o gravaram como Men On The Couch, mas o segundo, Logo Se Vê, publicado em Maio passado, já trouxe o nome que em definitivo decidiram dar à banda: Napa. Grupo nascido na Madeira, em 2013, os Napa são um quarteto formado por Francisco Sousa (guitarra), Guilherme Gomes (voz e guitarra), João Rodrigues (baixo) e Tiago Rodrigues (bateria).",
+        data: "08/07/2023",
+        link: "https://www.publico.pt/2023/07/08/culturaipsilon/video/maio-disseram-logo-ve-daonos-ouvir-gigantes-sao-napa-20230706-234540"
     },
 ];
 
