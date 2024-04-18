@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
     font-size: 16px;
@@ -57,7 +57,7 @@ section {
 
 section h2 {
     text-align: center;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto', cursive;
     margin-bottom: 1rem;
     border-bottom: 5px solid var(--azul);
     color: var(--azul-escuro);
