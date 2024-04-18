@@ -30,95 +30,43 @@ Fancybox.bind("[data-fancybox]", {
 
 const photos = [
     {
-        name: "Bife com Natas",
-        img: "foto01.jpg",
+        name: "Os NAPA",
+        img: "napa01.jpg",
     },
     {
-        name: "Sushi",
-        img: "foto02.jpg",
+        name: "Os NAPA 2",
+        img: "napa02.jpg",
     },
     {
-        name: "Iogurte e Fruta",
-        img: "foto03.jpg",
+        name: "Capa do disco Logo se Vê",
+        img: "napa03.jpg",
     },
     {
-        name: "Citrinos",
-        img: "foto04.jpg",
+        name: "Capa do disco Senso Comum",
+        img: "napa04.jpg",
     },
     {
-        name: "Panquecas",
-        img: "foto05.jpg",
-    },
-    {
-        name: "Pizza",
-        img: "foto06.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto07.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto08.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto09.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto10.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto11.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto12.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto13.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto14.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto15.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto16.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto17.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto18.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto19.jpg",
-    },
-    {
-        name: "Iogurte e Fruta",
-        img: "foto20.jpg",
+        name: "Os NAPA 3",
+        img: "napa05.jpg",
     },
 ];
 
 const videos = [
     {
-        name: "Slow Motion food",
-        id: "dzfOoIdyJRI",
+        name: "NAPA - Luz do Túnel",
+        id: "op0jaZ6zXsg",
     },
     {
-        name: "Lego Breakfast",
-        id: "1RMKR8h03iw",
+        name: "NAPA - Areia",
+        id: "XesDdEy3Gxk",
+    },
+    {
+        name: "NAPA - Se eu Morrese Amanhã",
+        id: "hCI8ki34p1E",
+    },
+    {
+        name: "NAPA - Assim, sem fim",
+        id: "QIQKxB-nkiI",
     },
 ];
 

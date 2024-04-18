@@ -36,7 +36,7 @@ a {
 }
 
 #banner {
-    background-image: url('img/banner.webp');
+    background-image: url('img/banner.png');
     background-position: center center;
     background-size: cover;
     /* display: flex;
