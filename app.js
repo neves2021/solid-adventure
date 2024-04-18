@@ -104,7 +104,7 @@ function galeria() {
           <div class="col">
               <figure>
                   <a href="img/${photo.img}" data-fancybox="comida" data-caption="${photo.name}">
-                      <img src="img/${photo.img}" alt="" class="img-fluid">
+                      <img src="img/${photo.img}" alt="" style="width: 250px; height: 239px; class="img-fluid">
                       <figcaption>${photo.name}</figcaption>
                   </a>
               </figure>
